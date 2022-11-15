@@ -13,7 +13,7 @@ const collectionInfo = {
     },
     medias: {
         preview: "preview.gif",
-        favicon: "logo.png",
+        favicon: "Swag Turtle #0012.png",
     },
     background: {
         type: "image",              // Supported types: image, video, color
