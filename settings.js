@@ -5,7 +5,7 @@ const moralisApi = "DcQ5fHJqPkptBZ5HTWXzNRnogJH2rDsVJQAClRPcZ24AWk7paDkcjeySVuBR
 
 const collectionInfo = {
     name: "Tec.sellix.io",
-    title: "Tec MINT Template", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
+    title: "Swag NFT Mint", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
     date: "XX.XX.XXXX", // Today date
     socialMedia: {
         discord: "https://discord.gg/Fu52QJZUHY",
