@@ -8,7 +8,7 @@ const collectionInfo = {
     title: "Tec MINT Template", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
     date: "XX.XX.XXXX", // Today date
     socialMedia: {
-        discord: "https://discord.gg/example",
+        discord: "https://discord.gg/Fu52QJZUHY",
         twitter: "https://twitter.com/example",
     },
     medias: {
