@@ -12,12 +12,12 @@ const collectionInfo = {
         twitter: "https://twitter.com/example",
     },
     medias: {
-        preview: "Swag Turtle #0012.png",
-        favicon: "Swag Turtle #0012.png",
+        preview: "priview.png",
+        favicon: "logo.png",
     },
     background: {
         type: "image",              // Supported types: image, video, color
-        image: "back.jpg",    // Image for image type, video preview for video type
+        image: "backround.jpg",    // Image for image type, video preview for video type
         video: "",    // If you don't use video, you can ignore this line
         color: "#4E4E6D",           // If you don't use color, you can ignore this line
     }
